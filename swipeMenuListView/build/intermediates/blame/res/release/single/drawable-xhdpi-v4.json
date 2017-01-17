@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\demo\\sample\\swipeMenuListView\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\demo\\sample\\swipeMenuListView\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\demo\\MySwipeMenuListView\\swipeMenuListView\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "G:\\demo\\MySwipeMenuListView\\swipeMenuListView\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]
